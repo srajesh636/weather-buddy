@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "http://srajesh636.github.io/weather_buddy",
+  "proxy":"https://weatherdada.herokuapp.com/",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.3.2",
@@ -15,7 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
