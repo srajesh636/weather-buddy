@@ -1,2 +1,2 @@
-# weather-buddy.
-A Simple React Application Using Weather API
+### Live demo for the above project is 
+http://weatherdada.herokuapp.com/
